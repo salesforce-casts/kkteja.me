@@ -1,5 +1,5 @@
 ---
-title: 'Two Forms of Pre-rendering'
+title: '2020 Year in review'
 date: '2020-01-01'
 ---
 
